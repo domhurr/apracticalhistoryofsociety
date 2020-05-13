@@ -2,8 +2,8 @@
 templateKey: index-page
 title: A practical history of society
 image: /img/jan-vernarec-udglwdhxj80-unsplash-1-.jpg
-heading: A practical history of society
-subheading: Understanding why things are as they are
+heading: Short version of Piketty's "Capital and Ideology"
+subheading: Piketty's "Capital and Ideology", shortened
 mainpitch:
   title: Why Kaldi
   description: >
