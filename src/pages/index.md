@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: A practical history of society
+image: /img/home-green.jpg
+heading: A practical history of society
+subheading: Understanding why things are as they are
 mainpitch:
   title: Why Kaldi
   description: >
