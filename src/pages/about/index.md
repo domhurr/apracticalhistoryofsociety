@@ -5,7 +5,7 @@ title: About
 ---
 ### Spreading the knowledge
 
-Piketty's "Capital and Ideology", released in 2019, was a revelation to me. And I think that everyone should read it: but it's way too long! Here is my effort to give it a wider audience by abridging the original text.
+Piketty's "Capital and Ideology", released in 2019, was a revelation to me. And I think that everyone should read it: but it's way too long (the original French version clocks in at a staggering 1200 pages)! Here is my effort to give it a wider audience by abridging the original text.
 
 ### Share the wealth
 
