@@ -3,6 +3,7 @@ templateKey: blog-post
 title: Chapter 1
 date: 2020-05-13T19:36:20.519Z
 featuredpost: true
+featuredimage: /img/f1.1.png
 tags:
   - book
 ---
