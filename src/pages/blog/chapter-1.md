@@ -7,6 +7,8 @@ featuredimage: /img/f1.1.png
 tags:
   - book
 ---
+![F1.1](/img/f1.1.png "F1.1")
+
 ### 3 functions: clergy, nobility, third estate
 
 Ternary societies are the oldest and most widespread type of regime that can be categorised as an unequal society. There are three distinct social groups: the clergy, the nobility and the third estate. The clergy is the religious and intellectual class: they give spiritual direction, values and education to the community. The nobility is the warrior and military class: it wields weapons and brings security, protection and stability to society as a whole; avoiding permanent chaos and generalised banditry. The third estate is the common and working class: all the rest of society, including peasants, artisans and merchants; through its work, it allows the entire community to feed itself, clothe itself and reproduce itself. We can also refer to other societies which have this original schema as a basis, but may in practise have many subclasses of varying complexity and diversity, as “ternary societies”. 
@@ -56,5 +58,3 @@ In the modern day, the equality of access to any job role in all sections or cla
 There is a specific element of the European trifunctional order that differs to that in other parts of the world, and which may have affected its economic and financial trajectory. That element is the celibacy of priests in the Catholic Church, and as a result the distinctive process of reproduction of the clerical class in Europe. In contrast to hinduism, islam and judaism, catholic clergy must continually be fed by the other two classes of society (in reality by the nobility for the high clergy, and by the third estate for the rest of the clergy). In the next chapter we will examine how \[this distinguishing feature came to be at the origin of the most sophisticated legal system in the world]*, a legal system which has hugely assisted the West in its economic domination of the planet.
 
 In Europe, the unification of status within the worker class and the gradual extinction of serfdom took almost a millenium, starting around the year 1000 and continuing until the end of the 19th century on the east side of the continent, which has left traces and discriminations which are visible to this day (as can be seen in the case of the Roma people). 
-
-![F1.1](/img/f1.1.png "F1.1")
