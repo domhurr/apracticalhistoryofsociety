@@ -21,11 +21,12 @@ export const BlogPostTemplate = ({
       {helmet || ''}
       <div className="container content">
         <div className="columns">
-          <div className="column is-6 is-offset-1">
+          <div className="column is-offset-1">
             <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
               {title}
             </h1>
-            <p>{description}</p>
+            <h2>{description}</h2>
+            <br/>
             <PostContent content={content} />
             {/*{tags && tags.length ? (
               <div style={{ marginTop: `4rem` }}>
