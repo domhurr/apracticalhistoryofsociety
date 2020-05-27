@@ -2,7 +2,8 @@ module.exports = {
   siteMetadata: {
     title: 'Practical history of society',
     description:
-      'An abridged version of Piketty\'s "Capital and Ideology", to provide a deeper understanding of why today\'s society is structured the way it is.',
+      'Providing a deeper understanding of today\'s society to all.',
+    url: 'https://www.practicalhistoryofsociety.com'
   },
   plugins: [
     'gatsby-plugin-react-helmet',
