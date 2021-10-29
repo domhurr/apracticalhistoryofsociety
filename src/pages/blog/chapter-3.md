@@ -3,6 +3,7 @@ templateKey: blog-post
 title: Chapter 3
 date: 2021-10-29T12:10:03.588Z
 description: Inventing the Property Owner Society
+featuredpost: true
 ---
 ### In France, the "great divide" of 1789 and the invention of modern property ownership
 
