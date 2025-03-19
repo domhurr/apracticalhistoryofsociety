@@ -2,3 +2,5 @@
 "axios Requests Vulnerable To Possible SSRF and Credential Leakage via Absolute URL"
 CVE-2025-27152
 by updating any usage of axios
+see also
+https://github.com/domhurr/apracticalhistoryofsociety/security/dependabot
